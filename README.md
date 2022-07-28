@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-My name is Jacob Pacheco, im a junior frontend web developer and a Treehouse Techdegree graduate. I specialize in programing reliable and interactive modern responsive websites and if need be, accurately replicating designs into code.
+My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treehouse Techdegree graduate. I specialize in programing reliable and interactive modern responsive websites and if need be, accurately replicating designs into code.
 
 ### Im Capable of...
   * Writing symantic HTML clode

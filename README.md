@@ -4,7 +4,7 @@
 
 My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treehouse Techdegree graduate. I specialize in programing reliable and interactive modern responsive websites and if need be, accurately replicating designs into code. Feel free to check out [my portfolio.](https://jacobpacheco100.github.io/Jacob-Pacheco/)
 
-### Im Capable of...
+### Junior Frontend Developer :
   * Writing symantic HTML clode
   * Using Sass and CSS framworks such as bootstrap
   * Writing clean ES6 Javascript
@@ -15,6 +15,8 @@ My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treeh
 ### Projects
  * [Audiophile e-comerce site](https://jacobpacheco100.github.io/Audiophile-e-commerce-website/)
  * [Bookmark Landing Page](https://jacobpacheco100.github.io/bookmark-landing-page/)
+ * [DevJobs App](https://jacobpacheco100.github.io/Devjobs-Web-App/)
+ * [Gameshow App](https://jacobpacheco100.github.io/GameShowApp/)
  
  #### Skills
  * HTML

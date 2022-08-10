@@ -19,6 +19,7 @@ My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treeh
  * [Gameshow App](https://jacobpacheco100.github.io/GameShowApp/)
  
  #### Skills
+ * React.js
  * HTML
  * CSS & SASS
  * Bootstrap

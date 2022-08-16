@@ -13,9 +13,9 @@ My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treeh
   * _( currently learning react js )_
 
 ### Projects
+ * [Gradientology](https://jacobpacheco100.github.io/gradientology/)
  * [Audiophile e-comerce site](https://jacobpacheco100.github.io/Audiophile-e-commerce-website/)
  * [Bookmark Landing Page](https://jacobpacheco100.github.io/bookmark-landing-page/)
- * [DevJobs App](https://jacobpacheco100.github.io/Devjobs-Web-App/)
  * [Gameshow App](https://jacobpacheco100.github.io/GameShowApp/)
  
  #### Skills

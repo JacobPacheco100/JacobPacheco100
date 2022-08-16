@@ -20,10 +20,12 @@ My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treeh
  
  #### Skills
  * React.js
+ * ES6 Javascript
  * HTML
  * CSS & SASS
+ * Chakra UI
+ * Tailwind
  * Bootstrap
- * ES6 Javascript
  * Axios & Fetch API
 
 

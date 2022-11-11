@@ -1,4 +1,4 @@
-![alt text]([https://pbs.twimg.com/profile_banners/4828211572/1602466095/1500x500](https://media-exp1.licdn.com/dms/image/C5616AQHr3hnN7eUyhA/profile-displaybackgroundimage-shrink_350_1400/0/1657990487921?e=1673481600&v=beta&t=qd-xbSwypoUHoRkD6upZYUBbkxY_rA9Qltc-tGS8YGU))
+![alt text](https://media-exp1.licdn.com/dms/image/C5616AQHr3hnN7eUyhA/profile-displaybackgroundimage-shrink_350_1400/0/1657990487921?e=1673481600&v=beta&t=qd-xbSwypoUHoRkD6upZYUBbkxY_rA9Qltc-tGS8YGU)
 
 ### Hey there 👋
 

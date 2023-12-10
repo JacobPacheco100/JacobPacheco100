@@ -1,7 +1,7 @@
-🚀 Passionate Self-Taught Developer | Treehouse Tech-Degree Graduate | Open to New Opportunities
+### 🚀 Passionate Self-Taught Developer | Treehouse Tech-Degree Graduate | Open to New Opportunities
 
 
-### Junior Frontend Developer :
+### Key Technologies :
   * Languages: JavaScript (ES6+), HTML5, CSS3
   * Frameworks: React.js
   * Tools: Git, VS Code, npm
@@ -9,7 +9,7 @@
 🎓 Treehouse Tech-Degree Graduate:
 Successfully completed the Treehouse Tech-Degree program, demonstrating mastery in building real-world projects and solving complex coding challenges. 🌳
 
-### Projects
+### Best Projects
  * [Gradientology](https://jacobpacheco100.github.io/gradientology/)
  * [Audiophile e-comerce site](https://jacobpacheco100.github.io/Audiophile-e-commerce-website/)
  * [Bookmark Landing Page](https://jacobpacheco100.github.io/bookmark-landing-page/)

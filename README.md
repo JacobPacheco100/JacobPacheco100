@@ -1,13 +1,13 @@
 ### 🚀 Passionate Self-Taught Developer | Treehouse Tech-Degree Graduate | Open to New Opportunities
 
+🎓 Treehouse Tech-Degree Graduate:
+Successfully completed the Treehouse Tech-Degree program, demonstrating mastery in building real-world projects and solving complex coding challenges. 🌳
+
 
 ### Key Technologies :
   * Languages: JavaScript (ES6+), HTML5, CSS3
-  * Frameworks: React.js
-  * Tools: Git, VS Code, npm
-
-🎓 Treehouse Tech-Degree Graduate:
-Successfully completed the Treehouse Tech-Degree program, demonstrating mastery in building real-world projects and solving complex coding challenges. 🌳
+  * Frameworks: React.js, Next.js
+  * Tools: Git, VSCode, npm, Axios,
 
 ### Best Projects
  * [Gradientology](https://jacobpacheco100.github.io/gradientology/)
@@ -15,15 +15,12 @@ Successfully completed the Treehouse Tech-Degree program, demonstrating mastery 
  * [Bookmark Landing Page](https://jacobpacheco100.github.io/bookmark-landing-page/)
  * [Gameshow App](https://jacobpacheco100.github.io/GameShowApp/)
  
- #### Skills
- * React.js
- * ES6 Javascript
- * HTML
- * CSS & SASS
- * Chakra UI
- * Tailwind
- * Bootstrap
- * Axios & Fetch API
+ #### Connect with me:
+ * [Linkedin:](https://www.linkedin.com/in/jacobpachecofrontenddev/)
+ * [Portfolio:](https://www.linkedin.com/in/jacobpachecofrontenddev/)
+ * [Twitter:](https://www.linkedin.com/in/jacobpachecofrontenddev/)
+ * [Email:](https://www.linkedin.com/in/jacobpachecofrontenddev/)
+ 
 
 
 #### A little about myself...
@@ -32,5 +29,3 @@ My frontend dev journey began when I was 15 years old. I wanted to make some mon
 Eventually I thought of how I could turn this into a real career. Knowing that designing alone wouldn't satisfy me forever. I wanted something challenging, and I've always loved computers. long story short, I decided to start studying frontend development with Udemy and the Treehouse Techdegree. Through (this) I began building real world projects that would prove my competence in this field.
 
 From the very first day, I fell in love with the art of code. There's just so much to learn, and that always makes it a fun and engaging experience. Design is my passion, and coding allows me to turn my design into something functional and useful. I couldn't be happier with being able to work with the two in conjunction.
-
-###

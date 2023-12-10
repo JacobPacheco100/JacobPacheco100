@@ -1,6 +1,4 @@
-### 🚀 Passionate Self-Taught Developer | 
-Treehouse Tech-Degree Graduate | 
-Open to New Opportunities
+### 🚀 Passionate Self-Taught Frontend Developer | Open to New Opportunities
 
 🎓 Treehouse Tech-Degree Graduate:
 Successfully completed the Treehouse Tech-Degree program, demonstrating mastery in building real-world projects and solving complex coding challenges. 🌳

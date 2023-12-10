@@ -1,16 +1,13 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C5616AQHr3hnN7eUyhA/profile-displaybackgroundimage-shrink_350_1400/0/1657990487921?e=1673481600&v=beta&t=qd-xbSwypoUHoRkD6upZYUBbkxY_rA9Qltc-tGS8YGU)
+🚀 Passionate Self-Taught Developer | Treehouse Tech-Degree Graduate | Open to New Opportunities
 
-### Hey there 👋
-
-My name is **Jacob Pacheco**, im a **junior frontend web developer** and a Treehouse Techdegree graduate. I develope functional, modern, and maintainable websites, Im also proefficient in accurately replicating designs / mockups into code. Feel free to check out my [portfolio.](https://jacob-pacheco-portfolio.netlify.app/)
 
 ### Junior Frontend Developer :
-  * Writing symantic HTML clode
-  * Using Sass and CSS framworks such as bootstrap
-  * Writing clean ES6 Javascript
-  * Working with Ajax and Fetch API
-  * Creating client side interactive wep applications
-  * _( currently learning react js )_
+  * Languages: JavaScript (ES6+), HTML5, CSS3
+  * Frameworks: React.js
+  * Tools: Git, VS Code, npm
+
+🎓 Treehouse Tech-Degree Graduate:
+Successfully completed the Treehouse Tech-Degree program, demonstrating mastery in building real-world projects and solving complex coding challenges. 🌳
 
 ### Projects
  * [Gradientology](https://jacobpacheco100.github.io/gradientology/)
